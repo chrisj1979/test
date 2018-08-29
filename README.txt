@@ -1,1 +1,2 @@
 wpis testowy
+moje
