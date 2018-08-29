@@ -1,2 +1,3 @@
 wpis testowy
-moje
+
+moje jakies tam bzdury
